@@ -63,9 +63,10 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm John Doe.
+          Hello, <br /> I'm Mike.
         </BigTitle>
-        <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>I'm a student of life. Using web development and technology to solve real world problems</Subtitle>
+        <p>I'm playing with gatsby starter package</p>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
